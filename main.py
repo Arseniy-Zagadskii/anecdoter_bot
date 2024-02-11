@@ -7,7 +7,7 @@ import re
 import schedule
 import time
 
-bot = telebot.TeleBot('6163172958:AAHrUbWtGfxafHzAucoWJErQSFbv4qEsHD0')
+bot = telebot.TeleBot('')
 a = []
 for i in range(1, 20001):
     a.append(i)
